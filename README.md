@@ -1,5 +1,7 @@
 # GitHub + Vercel 배포 가이드
 
+한 줄 소개: GitHub에 코드를 올리고 Vercel로 즉시 배포할 수 있는 초보자용 원페이지 웹 프로젝트입니다.
+
 ## 📦 생성된 파일
 - `index.html` - 메인 웹페이지
 - `README.md` - 프로젝트 설명
